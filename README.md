@@ -6,10 +6,10 @@ Users should be able to create tournaments, including qualifying and playoffs. B
 A manager can select players, machines, tournament format, enter scores and other stuff.
 Other users should be able to sign up for competitions, enter scores themselves and check standings.
 
-Supported tournament formats
+<h2>Supported tournament formats</h2>
 
-Highest game
+<h3>Highest game</h3>
 Best score from a machine is compared with other players scores on that machine. Each position in this ranking gets a qualification point.
 
-Entry
+<h3>Entry</h3>
 Each player has a number of possible entries. Each entry consists of one try on a number of games (usually 3-5). As in highest game, each score is compared and gets a qualification point. The whole entry gets the sum of these qualification points and are ranked against other entries.
